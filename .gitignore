@@ -262,3 +262,7 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/EducationPortal/EducationPortal.Web/Content
+/EducationPortal/EducationPortal.Web/Scripts
+/EducationPortal/EducationPortal.Web/Views
+/EducationPortal/EducationPortal.Web/fonts
